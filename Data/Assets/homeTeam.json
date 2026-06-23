@@ -1,0 +1,104 @@
+{
+    "roster": [
+        {
+            "name": "Jerry Matthews",
+            "num": 42,
+            "position": "",
+            "order": -1,
+            "bStat": 99,
+            "pStat": 52,
+            "fStat": 99,
+            "sStat": 90,
+            "team": "home"
+        },
+        {
+            "name": "Jacob Foley",
+            "num": 4,
+            "position": "",
+            "order": -1,
+            "bStat": 55,
+            "pStat": 99,
+            "fStat": 96,
+            "sStat": 90,
+            "team": "home"
+        },
+        {
+            "name": "Xavier Dyer",
+            "num": 21,
+            "position": "",
+            "order": -1,
+            "bStat": 65,
+            "pStat": 80,
+            "fStat": 99,
+            "sStat": 96,
+            "team": "home"
+        },
+        {
+            "name": "Aron Hunter",
+            "num": 24,
+            "position": "",
+            "order": -1,
+            "bStat": 58,
+            "pStat": 75,
+            "fStat": 68,
+            "sStat": 99,
+            "team": "home"
+        },
+        {
+            "name": "Aditya Kumar",
+            "num": 42,
+            "position": "",
+            "order": -1,
+            "bStat": 99,
+            "pStat": 45,
+            "fStat": 99,
+            "sStat": 97,
+            "team": "home"
+        },
+        {
+            "name": "Jai Kata",
+            "num": 23,
+            "position": "",
+            "order": -1,
+            "bStat": 85,
+            "pStat": 85,
+            "fStat": 85,
+            "sStat": 85,
+            "team": "home"
+        },
+        {
+            "name": "Julian Collado",
+            "num": 14,
+            "position": "",
+            "order": -1,
+            "bStat": 99,
+            "pStat": 99,
+            "fStat": 99,
+            "sStat": 99,
+            "team": "home"
+        },
+        {
+            "name": "Yousif Alqaysi",
+            "num": 3,
+            "position": "",
+            "order": -1,
+            "bStat": 50,
+            "pStat": 50,
+            "fStat": 50,
+            "sStat": 50,
+            "team": "home"
+        },
+        {
+            "name": "Keith Shaw",
+            "num": 44,
+            "position": "",
+            "order": -1,
+            "bStat": 50,
+            "pStat": 95,
+            "fStat": 99,
+            "sStat": 96,
+            "team": "home"
+        }
+    ],
+    "teamName": "home"
+}

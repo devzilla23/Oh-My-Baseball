@@ -1,0 +1,104 @@
+{
+    "roster": [
+        {
+            "name": "Reid O'Neill",
+            "num": 6,
+            "position": "",
+            "order": -1,
+            "bStat": 99,
+            "pStat": 52,
+            "fStat": 99,
+            "sStat": 90,
+            "team": "away"
+        },
+        {
+            "name": "Jordan Charles",
+            "num": 31,
+            "position": "",
+            "order": -1,
+            "bStat": 55,
+            "pStat": 99,
+            "fStat": 96,
+            "sStat": 90,
+            "team": "away"
+        },
+        {
+            "name": "Omer Reed",
+            "num": 1,
+            "position": "",
+            "order": -1,
+            "bStat": 65,
+            "pStat": 80,
+            "fStat": 99,
+            "sStat": 96,
+            "team": "away"
+        },
+        {
+            "name": "Brendan Smith",
+            "num": 12,
+            "position": "",
+            "order": -1,
+            "bStat": 58,
+            "pStat": 75,
+            "fStat": 68,
+            "sStat": 99,
+            "team": "away"
+        },
+        {
+            "name": "Dylan Cannon",
+            "num": 15,
+            "position": "",
+            "order": -1,
+            "bStat": 99,
+            "pStat": 45,
+            "fStat": 99,
+            "sStat": 97,
+            "team": "away"
+        },
+        {
+            "name": "Pablo Wheeler",
+            "num": 9,
+            "position": "",
+            "order": -1,
+            "bStat": 85,
+            "pStat": 85,
+            "fStat": 85,
+            "sStat": 85,
+            "team": "away"
+        },
+        {
+            "name": "Frank Wise",
+            "num": 27,
+            "position": "",
+            "order": -1,
+            "bStat": 99,
+            "pStat": 99,
+            "fStat": 99,
+            "sStat": 99,
+            "team": "away"
+        },
+        {
+            "name": "Dakota Montoya",
+            "num": 2,
+            "position": "",
+            "order": -1,
+            "bStat": 50,
+            "pStat": 50,
+            "fStat": 50,
+            "sStat": 50,
+            "team": "away"
+        },
+        {
+            "name": "Austin Solis",
+            "num": 7,
+            "position": "",
+            "order": -1,
+            "bStat": 50,
+            "pStat": 95,
+            "fStat": 99,
+            "sStat": 96,
+            "team": "away"
+        }
+    ],
+    "teamName": "away"
+}
