@@ -43,9 +43,9 @@ def makeTeams():
         # player.fStat = sList[i][2]
         # player.sStat = sList[i][3]
         team2.roster.append(player)
-    with open('Assets/homeTeam.json', 'w') as H:
+    with open('Data/Assets/homeTeam.json', 'w') as H:
         json.dump(asdict(team1), H, indent=4)
-    with open('Assets/awayTeam.json', 'w') as A:
+    with open('Data/Assets/awayTeam.json', 'w') as A:
         json.dump(asdict(team2), A, indent=4)
 
     print(f'Home Team: {team1}')

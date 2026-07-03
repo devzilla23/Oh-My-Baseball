@@ -5,7 +5,7 @@
 #
 # Team that has an amount of points and a roster of players
 #######################################################################################################################
-from Classes.Player import *
+from Data.Classes.Player import *
 from dataclasses import dataclass, field
 
 #Team class
