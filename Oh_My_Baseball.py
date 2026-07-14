@@ -55,7 +55,7 @@ def main():
         clock.tick(FPS)
         pygame.display.flip()
 
-    pygame.quit()
+    pygame.quit() 
     sys.exit()
 
 def loadTeams():
@@ -69,3 +69,4 @@ main()
 
 
 
+   
