@@ -27,7 +27,7 @@ def main():
     FPS = 60
     clock = pygame.time.Clock()
     team1, team2 = loadTeams()
-    teamSet = oneP.oneP(team1)
+    teamSet = oneP.oneP(team1) 
     game = playone.Game(team1, team2)
 
 
@@ -48,9 +48,9 @@ def main():
             elif homeTeam == None:
                 homeTeam = teamSet.main(screen, event, width, height)
             else:
-                game.renderField(screen, width, height, event)
+                game.renderField(screen, width, height, event, homeTeam)
         if homeTeam != None and not hasEvent:
-            game.renderField(screen, width, height, None)
+            game.renderField(screen, width, height, None, homeTeam)
 
         clock.tick(FPS)
         pygame.display.flip()

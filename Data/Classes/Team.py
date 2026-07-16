@@ -17,3 +17,10 @@ class Team:
     def __post_init__(self):
         self.roster = [Player(**item) if isinstance(item, dict) else item for item in self.roster]
 
+
+    def getPlayerByBattingOrder(self, batting:int) -> Player:
+        for player in self.roster:
+            if player.order == batting:
+                return player
+        
+        return None
