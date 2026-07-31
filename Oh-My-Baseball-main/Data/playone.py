@@ -212,23 +212,17 @@ class Game:
     def checkFoul(self, point):
         """Checks if the ball landed in foul territory."""
         plateX = 742
-        plateY = 1546
+        plateY = 1570
 
-        # Left side foul
-        if point[0] < plateX - 50:
-            distY = plateY - point[1]
-            if distY > 0:
-                distX = plateX - point[0]
-                if distX > distY * 0.8:
-                    return True
+        distY = plateY - point[1]
 
-        # Right side foul
-        if point[0] > plateX + 50:
-            distY = plateY - point[1]
-            if distY > 0:
-                distX = point[0] - plateX
-                if distX > distY * 0.8:
-                    return True
+        if distY <= 0:
+            return True
+
+        leftX = plateX - distY
+        rigthX = plateX + distY
+        if point[0] < leftX or point[0] > rigthX:
+            return True
 
         return False
 
