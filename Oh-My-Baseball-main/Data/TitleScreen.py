@@ -7,7 +7,6 @@
 ########################################################################################################################
 #Imports
 import pygame
-from PIL.ImageChops import screen
 
 
 class TitleScreen(object):
