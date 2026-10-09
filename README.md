@@ -6,7 +6,7 @@ Oh My Baseball is a lightweight arcade-style batting game built with Python and 
 
 ![Title screen](Oh-My-Baseball-main/docs/title-screen.png)
 
-![Gameplay](Oh-My-Baseball-main/docs/gameplay.png)
+![Gameplay](Oh-My-Baseball-main/docs/gameplay.gif)
 
 ## Features
 
